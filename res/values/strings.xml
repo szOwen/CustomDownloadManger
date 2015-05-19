@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">CustomDownloadManger</string>
+    <string name="createbtn_text">新建</string>
+    <string name="startbtn_text">开始</string>
+    <string name="pausebtn_text">暂停</string>
+    <string name="cancelbtn_text">取消</string>
+    <string name="deletebtn_text">删除</string>
+
+</resources>
